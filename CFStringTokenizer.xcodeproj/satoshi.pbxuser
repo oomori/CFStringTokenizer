@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* CFStringTokenizerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1628}}";
+			sepNavSelRange = "{2037, 0}";
+			sepNavVisRange = "{922, 1179}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CFStringTokenizer */ = {
+		activeExec = 0;
+		executables = (
+			74CEF8F112968BD400F968E0 /* CFStringTokenizer */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* CFStringTokenizerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 901}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 855}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 74CEF8F112968BD400F968E0 /* CFStringTokenizer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CFStringTokenizer */;
+		codeSenseManager = 74CEF8FC12968BF400F968E0 /* Code sense */;
+		executables = (
+			74CEF8F112968BD400F968E0 /* CFStringTokenizer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					446,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314276749;
+			PBXWorkspaceStateSaveDate = 314276749;
+		};
+		perUserProjectItems = {
+			74630C8E12BB7BBF00BF7E83 /* PBXTextBookmark */ = 74630C8E12BB7BBF00BF7E83 /* PBXTextBookmark */;
+			74CEF97B1296977100F968E0 /* PBXTextBookmark */ = 74CEF97B1296977100F968E0 /* PBXTextBookmark */;
+			74CEFBA91297A3E700F968E0 /* PBXTextBookmark */ = 74CEFBA91297A3E700F968E0 /* PBXTextBookmark */;
+			74CEFBAC1297C15700F968E0 /* PBXTextBookmark */ = 74CEFBAC1297C15700F968E0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 74CEF8FB12968BF400F968E0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	74630C8E12BB7BBF00BF7E83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CFStringTokenizerAppDelegate.m */;
+		name = "CFStringTokenizerAppDelegate.m: 66";
+		rLen = 0;
+		rLoc = 2037;
+		rType = 0;
+		vrLen = 1179;
+		vrLoc = 922;
+	};
+	74CEF8F112968BD400F968E0 /* CFStringTokenizer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CFStringTokenizer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	74CEF8FB12968BF400F968E0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	74CEF8FC12968BF400F968E0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	74CEF97B1296977100F968E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CFStringTokenizerViewController.m */;
+		name = "CFStringTokenizerViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 855;
+		vrLoc = 0;
+	};
+	74CEF97D1296977100F968E0 /* CFStringTokenizer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CFStringTokenizer.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStringTokenizer.h;
+		sourceTree = "<absolute>";
+	};
+	74CEFBA91297A3E700F968E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 74CEF97D1296977100F968E0 /* CFStringTokenizer.h */;
+		name = "CFStringTokenizer.h: 127";
+		rLen = 50;
+		rLoc = 5034;
+		rType = 0;
+		vrLen = 1464;
+		vrLoc = 4266;
+	};
+	74CEFBAC1297C15700F968E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CFStringTokenizerAppDelegate.m */;
+		name = "CFStringTokenizerAppDelegate.m: 66";
+		rLen = 0;
+		rLoc = 2037;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 1183;
+	};
+}
